@@ -1,1 +1,2 @@
 Changes of feature2.
+Changes of hotfix for feature2.
